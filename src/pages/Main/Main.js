@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import api from '../../services/Api';
+import './Main.css';
 
 export default class Main extends Component {
   state = {
